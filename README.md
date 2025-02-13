@@ -32,15 +32,3 @@ I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mi
 
 ## 📚 Currently Learning 
 [![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]()  
-
-<details>
-  <summary>Some of my Github Public Stats :computer:</summary>
-  
- <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" />
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=naru70o&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/naru70o)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=naru70o=blue)
-  ----
-  
-</details>
