@@ -8,7 +8,7 @@ I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mi
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kadar%20Bache-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadar-bache-5b53ba236/)](https://www.linkedin.com/in/kadar-bache-5b53ba236/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=khadarpaashe123@gmail.com)](khadarpaashe123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-khadarpaashe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=khadarpaashe123@gmail.com)](khadarpaashe123@gmail.com)
 
 ## ⚡i'm Advanced at this tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
