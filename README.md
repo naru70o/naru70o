@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+ ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I'm a passionate front-end Developer in the making, dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least 8 hours a day—because consistency is my superpower.
 
@@ -37,7 +37,7 @@ I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mi
   
   <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=samujjwaal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=naru70o&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/naru70o)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=naru70o=blue)
   ----
