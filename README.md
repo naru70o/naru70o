@@ -25,9 +25,9 @@ I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mi
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)  
 
 ## i'm Advanced at this tools (sometimes)
-[![Remix](https://img.shields.io/badge/-Remix-black?style=flat-square&logo=remix)]()  
-[![Supabase](https://img.shields.io/badge/-Supabase-green?style=flat-square&logo=supabase)]()  
-[![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)]()  
+[![Remix](https://img.shields.io/badge/-Remix-black?style=flat-square&logo=remix)]() 
+[![Supabase](https://img.shields.io/badge/-Supabase-green?style=flat-square&logo=supabase)]() 
+[![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)]() 
 
 ## currently studying on 
 [![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]()  
