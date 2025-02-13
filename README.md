@@ -1,6 +1,6 @@
  ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm a passionate front-end self taught Developer in the making, dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least 8 hours a day—because consistency is my superpower.
+I'm a passionate front-end self taught Developer, dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least **8 hours a day** in a year, because consistency is my superpower.
 
 Currently, I'm expanding my expertise by diving deep into backend development and data structures & algorithms to build efficient and scalable applications.
 
