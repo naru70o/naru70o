@@ -36,7 +36,7 @@ I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mi
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
   
-  <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
+ <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" />
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=naru70o&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/naru70o)
 
