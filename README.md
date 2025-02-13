@@ -7,7 +7,7 @@ Currently, I'm expanding my expertise by diving deep into backend development an
 I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mindset of a seasoned problem solver, always eager to learn, grow, and tackle new challenges.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kadar%20Bache-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadar-bache-5b53ba236/)](https://www.linkedin.com/in/kadar-bache-5b53ba236/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kadar%20Bache-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kadar-bache-5b53ba236/)](https://www.linkedin.com/in/kadar-bache-5b53ba236/)
 [![Gmail Badge](https://img.shields.io/badge/-khadarpaashe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=khadarpaashe123@gmail.com)](khadarpaashe123@gmail.com)
 
 ## ⚡i'm Advanced at this tools
