@@ -1,4 +1,4 @@
- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+ ## Welcome! Glad you’re here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I'm a passionate front-end self taught Developer, dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least **8 hours a day** in a year, because consistency is my superpower.
 
