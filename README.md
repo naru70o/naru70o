@@ -8,7 +8,7 @@ I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mi
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kadar%20Bache-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kadar-bache-5b53ba236/)](https://www.linkedin.com/in/kadar-bache-5b53ba236/)
-[![Gmail Badge](https://img.shields.io/badge/-khadarpaashe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=khadarpaashe123@gmail.com)](khadarpaashe123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-khadarpaashe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=[khadarpaashe123@gmail.com](https://mail.google.com/mail/u/0/))](khadarpaashe123@gmail.com)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://kadar-naruto.hashnode.dev/)](https://kadar-naruto.hashnode.dev/)
 
 ## 🚀 Highly Proficient Tools (Daily Use)  
