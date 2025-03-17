@@ -1,11 +1,8 @@
  ## Welcome! Glad you’re here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm a passionate front-end self taught Developer, dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least **8 hours a day** in a year, because consistency is my superpower.
+I'm a passionate front-end self taught Developer from somaliland, dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least **8 hours a day** in a year, because consistency is my superpower.
 
 Currently, I'm expanding my expertise by diving deep into backend development and data structures & algorithms to build efficient and scalable applications.
-
-I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mindset of a seasoned problem solver, always eager to learn, grow, and tackle new challenges.
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kadar%20Bache-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kadar-bache-5b53ba236/)](https://www.linkedin.com/in/kadar-bache-5b53ba236/)
 [![Gmail Badge](https://img.shields.io/badge/-khadarpaashe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=[khadarpaashe123@gmail.com](https://mail.google.com/mail/u/0/))](khadarpaashe123@gmail.com)
@@ -32,3 +29,5 @@ I'm from Somaliland, but I think beyond borders. At 20 years old, I bring the mi
 
 ## 📚 Currently Learning 
 [![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]()  
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)]()
+
