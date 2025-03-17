@@ -28,5 +28,5 @@ Currently, I'm expanding my expertise by diving deep into backend development an
 [![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)]() 
 
 ## 📚 Currently Learning 
-[![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]() [![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)]()
+[![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]() [![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)]()
 
