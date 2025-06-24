@@ -19,6 +19,7 @@ Currently, I'm expanding my expertise by diving deep into backend development an
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
 [![Mongoose](https://img.shields.io/badge/-Mongoose-red?style=flat-square&logo=mongoose)]()  
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)  
+[![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]() 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
 
@@ -28,5 +29,5 @@ Currently, I'm expanding my expertise by diving deep into backend development an
 [![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)]() 
 
 ## 📚 Currently Learning 
-[![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]() [![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)]()
+[![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)]()
 
