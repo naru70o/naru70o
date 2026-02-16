@@ -1,12 +1,13 @@
  ## Welcome! Glad you’re here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm a passionate front-end self taught Developer from somaliland, dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least **8 hours a day** in a year, because consistency is my superpower.
+I'm a passionate front-end self taught Developer from somaliland (partially recognized), dedicated to mastering the art of coding. Over the past year, I've been honing my skills in front-end development, consistently coding for at least **8 hours a day** in a year, because consistency is my superpower.
 
 Currently, I'm expanding my expertise by diving deep into backend development and data structures & algorithms to build efficient and scalable applications.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kadar%20Bache-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kadar-bache-5b53ba236/)](https://www.linkedin.com/in/kadar-bache-5b53ba236/)
 [![Gmail Badge](https://img.shields.io/badge/-khadarpaashe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:khadarpaashe123@gmail.com)
 [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://kadar-naruto.hashnode.dev/)](https://kadar-naruto.hashnode.dev/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@didkadarcode)
 
 ## 🚀 Highly Proficient Tools (Daily Use)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
@@ -22,12 +23,10 @@ Currently, I'm expanding my expertise by diving deep into backend development an
 [![Express.js](https://img.shields.io/badge/-Express.js-gray?style=flat-square&logo=express)]() 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 ## 🔹 Familiar Tools (Occasional Use)  
 [![Remix](https://img.shields.io/badge/-Remix-black?style=flat-square&logo=remix)]() 
 [![Supabase](https://img.shields.io/badge/-Supabase-green?style=flat-square&logo=supabase)]() 
 [![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)]() 
-
-## 📚 Currently Learning 
-[![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)]()
 
